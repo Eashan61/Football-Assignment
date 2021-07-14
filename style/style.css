@@ -66,6 +66,7 @@ h2{
 .top-section-banner img{
     width: 500px;
     height: 500px;
+    margin-right: 100px;
     transition: width 1s, height 1s, transform 1s;
 }
 
